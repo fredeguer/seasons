@@ -6,3 +6,17 @@ body {
 	background-size: cover;
 	-o-background-size: cover;
 }
+
+/* Images */
+img {
+	width: 100%;
+}
+
+/* Navbar */
+.navbar-dark .navbar-brand {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.75);
+}
