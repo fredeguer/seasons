@@ -10,6 +10,7 @@ body {
 /* Images */
 img {
 	width: 100%;
+	max-height: 36em;
 }
 
 /* Navbar */
@@ -19,4 +20,20 @@ img {
 
 .navbar-dark .navbar-brand:hover {
     color: rgba(255, 255, 255, 0.75);
+}
+
+/* Carousel */
+#monCarousel {
+	padding-top: 55px;
+}
+
+.carousel-indicators li {
+	width: 14px;
+	height: 14px;
+	border-radius: 7px;
+	background-color: black;
+}
+
+.carousel-caption h3 {
+	color: black;
 }
