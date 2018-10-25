@@ -13,6 +13,11 @@ img {
 	max-height: 36em;
 }
 
+/* Surcharge style Jumbotron */
+.jumbotron {
+	background-color: rgba(233, 236, 239, 0.5);
+}
+
 /* Navbar */
 .navbar-dark .navbar-brand {
     color: rgba(255, 255, 255, 0.5);
